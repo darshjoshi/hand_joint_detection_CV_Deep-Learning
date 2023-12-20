@@ -15,3 +15,10 @@ This Python script detects finger joints in a given image using OpenCV and sciki
 pip install -r requirements.txt
 ```
 
+
+## Usage
+1. Run the script:
+
+```bash
+main.py
+```
