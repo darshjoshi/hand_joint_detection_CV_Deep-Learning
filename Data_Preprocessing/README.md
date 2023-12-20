@@ -6,13 +6,13 @@ This MATLAB tool converts DICOM images to JPG format, focusing on folders with s
 
 - MATLAB installed on your system.
 
-Configuration
+## Configuration
 
 Set the source and output directories in your MATLAB script or through a configuration file:
 source_directory = '[your-source-directory]';
 output_directory = '[your-output-directory]';
 
-Features
+## Features
 
 Converts DICOM images in specified folders to JPG format.
 Targets folders with specific naming conventions ('9*').
@@ -45,12 +45,6 @@ Converts DICOM images to JPG format.
 Renames label files to match converted image names.
 Handles a specific folder structure (folders starting with '9' and containing 'v06' subfolders).
 Contributing
-
-Contributions are welcome. Please fork the repository and submit pull requests with your improvements.
-
-# License
-
-Distributed under the MIT License. See LICENSE for more information.
 
 # Support
 
