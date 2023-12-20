@@ -4,7 +4,7 @@
 This tool evaluates predicted coordinates against reference coordinates. It calculates Mean Squared Error (MSE) and Root Mean Squared Error (RMSE) and visualizes the predicted coordinates alongside their closest reference coordinates.
 
 ## Prerequisites
-- Python 3.x
+- Python 3.8 and higher
 - numpy
 - matplotlib
 
