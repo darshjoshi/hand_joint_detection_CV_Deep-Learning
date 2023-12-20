@@ -25,14 +25,7 @@ This MATLAB tool processes DICOM images by converting them to JPG format and ren
 
 ## Prerequisites
 
-- MATLAB (version X.X or higher)
-
-## Installation
-
-Clone this repository to your local machine:
-
-```bash
-git clone [repository-url]
+- MATLAB (R2023b)
 
 Before running the script, set the source, output, and label directories. These can be passed as arguments to the main function:
 
@@ -43,6 +36,7 @@ label_directory = '[Path for label files]';
 # Usage
 
 Run the script in MATLAB:
+
 convertDicomInFoldersStartingWith9(source_directory, output_directory, label_directory);
 
 # Features
