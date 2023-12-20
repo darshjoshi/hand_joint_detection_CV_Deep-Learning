@@ -11,3 +11,8 @@ This Python script detects finger joints in a given image using OpenCV and sciki
 1. Clone the repository or download the script.
 2. Install the required packages from the `requirements.txt` file:
 
+'''bash
+pip install -r requirements.txt
+
+'''
+
