@@ -28,4 +28,4 @@ Handles a specific folder structure (folders starting with '9' and containing 'v
 Contributing
 
 ## Contact
-  email - mihikamishra5@gmail.com 
+  Email - mihikamishra5@gmail.com 
