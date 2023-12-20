@@ -25,7 +25,5 @@ convertDicomInFoldersStartingWith9(source_directory, output_directory, label_dir
 Converts DICOM images to JPG format.
 Renames label files to match converted image names.
 Handles a specific folder structure (folders starting with '9' and containing 'v06' subfolders).
-Contributing
-
 ## Contact
   Email - mihikamishra5@gmail.com 
