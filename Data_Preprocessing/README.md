@@ -33,22 +33,18 @@ source_directory = '[Path to DICOM images]';
 output_directory = '[Path for output JPG images]';
 label_directory = '[Path for label files]';
 
-# Usage
+## Usage
 
 Run the script in MATLAB:
 
 convertDicomInFoldersStartingWith9(source_directory, output_directory, label_directory);
 
-# Features
+## Features
 
 Converts DICOM images to JPG format.
 Renames label files to match converted image names.
 Handles a specific folder structure (folders starting with '9' and containing 'v06' subfolders).
 Contributing
 
-# Support
-
-For support or to report issues, please file an issue on the GitHub repository.
-
-This README provides a clear overview of your project, instructions for installation and usage, and encourages community contributions, making it a valuable resource for your GitHub repository.
-
+## Contact
+   
