@@ -1,7 +1,9 @@
+# DICOM Image Processing Tool
+Executed by - Mihika Mishra
 
+## Overview
 In the data preprocessing phase ,one MATLAB script was implemented to efficiently prepare our X-ray image dataset for analysis. The primary goals were to convert DICOM files to the more accessible JPEG format and systematically organize the corresponding labeling information.
 
-# DICOM Image Processing Tool
 This MATLAB tool processes DICOM images by converting them to JPG format and renaming associated label files. It is designed for medical image datasets, particularly those stored in a structured folder hierarchy.
 
 ## Prerequisites
@@ -26,4 +28,4 @@ Handles a specific folder structure (folders starting with '9' and containing 'v
 Contributing
 
 ## Contact
-  email-mihikamishra5@gmail.com 
+  email - mihikamishra5@gmail.com 
