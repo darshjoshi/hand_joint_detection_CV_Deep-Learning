@@ -5,9 +5,9 @@ from sklearn.cluster import KMeans
 
 # Load preset images
 preset_images = {
-    "Image 1": "D:\Projects\Computer_Vision\9003175.jpg",
-    "Image 2": "D:\Projects\Computer_Vision\9004175.jpg",
-    "Image 3": "D:\Projects\Computer_Vision\9120358.jpg"
+    "Image 1": "Computer_Vision_Method/sample_images/9003175.jpg",
+    "Image 2": "Computer_Vision_Method/sample_images/9004175.jpg",
+    "Image 3": "Computer_Vision_Method/sample_images/9120358.jpg"
 }
 
 def display_image(title, image):
